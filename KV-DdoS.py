@@ -1,4 +1,4 @@
-print ("\033[91m")
+print  ("\033[91m")
 import sys
 import os
 import time
@@ -32,7 +32,7 @@ port = input("Port       : ")
 os.system("clear")
 print("\033[93m")
 os.system("figlet DdoS Attack")
-print("Team : T34m V18rs")
+print("Team : Mohammed Al -Ahmadi")
 print ("\033[92m")
 print "[                    ] 0% "
 time.sleep(5)
