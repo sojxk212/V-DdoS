@@ -20,7 +20,6 @@ bytes = random._urandom(1490)
 
 os.system("clear")
 os.system("figlet V-DdoS")
-print
 print (''' \033[92m
 
   ██╗  ██╗ █████╗  ██████╗██╗  ██╗
